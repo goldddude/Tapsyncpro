@@ -5,6 +5,7 @@
 *.db
 *.sqlite
 *.sqlite3
+instance/
 
 # Python
 __pycache__/
@@ -27,6 +28,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+venv/
+env/
 
 # Testing
 .pytest_cache/
